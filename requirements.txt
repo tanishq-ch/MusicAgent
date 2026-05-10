@@ -1,0 +1,8 @@
+# Voice Music Agent — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+SpeechRecognition>=3.10.0   # Microphone + Google Speech API
+pyaudio>=0.2.13             # Microphone input driver
+keyboard>=0.13.5            # Global hotkey listener
+pystray>=0.19.4             # System tray icon
+Pillow>=10.0.0              # Drawing the tray icon
