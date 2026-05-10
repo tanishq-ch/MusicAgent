@@ -301,8 +301,6 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 <div align="center">
 
-Built with ❤️ using Python, `SpeechRecognition`, `pystray`, and `keyboard`
-
 *For anyone who just wants to press a button and hear music.*
 
 ⭐ **Star this repo if it helped you!**
